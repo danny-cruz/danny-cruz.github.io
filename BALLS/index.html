@@ -1,23 +1,20 @@
-<!DOCTYPE html>
-	 <html lang="en-us">
-		 <head>
-			 <style>
-				 canvas {
-	 width: 48.64%;
-	 height: 100%;
-	 position: absolute;
-	 }
-			 </style>
-			 <meta charset="utf-8">
-			 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-			 <title>BALLS</title>
-			 <body style="background: #000;">
-			 <script src="Build/UnityLoader.js"></script>
-			 <script>
-				 var gameInstance = UnityLoader.instantiate("gameContainer", "Build/BALLS.json");
-			 </script>
-		 </head>
-		 <body>
-			 <div id="gameContainer" style="width: 48.64%; height: 100%; position: absolute; margin: auto"></div>
-		 </body>
-	 </html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unity WebGL Player | WebGLFullScreenExample</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/webgl_fullscreen.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body class="background">
+    <div id="gameContainer">
+        <div id="canvas"></div>
+    </div>
+  </body>
+</html>
