@@ -1,20 +1,19 @@
+<!DOCTYPE html>
 <html lang="en-us">
+
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unity WebGL Player | WebGLFullScreenExample</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>
+    <title>Balls to the wall gameplay</title>
+		<style> body { background: #000; margin-left: calc(50vw - 23.8378vh); }</style>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/webgl_fullscreen.json", {onProgress: UnityProgress});
+    var unityInstance = UnityLoader.instantiate("unityContainer", "Build/untitled-ball-demo.json");
     </script>
   </head>
-  <body class="background">
-    <div id="gameContainer">
-        <div id="canvas"></div>
-    </div>
+
+  <body>
+    <div id="unityContainer" style="width: 47.6756vh; height: 98vh; margin: auto"></div>
   </body>
+
 </html>
