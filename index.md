@@ -2,24 +2,15 @@
 
 ---
 
-### Category Name 1
+### Looper
 
-[Project 1 Title](/sample_page)
-
-<!--
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Android](https://play.google.com/store/apps/details?id=io.danielcruz.sines&hl=en_US&gl=US)[ | iOS](https://apps.apple.com/us/app/looper-minimal-infinite-runner/id1265535862)
 
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
-[Project 3 Title](http://example.com/)
-<!--
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
----
+
+
 
 ### Category Name 2
 
