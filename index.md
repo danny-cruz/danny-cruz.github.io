@@ -6,9 +6,9 @@
 
 [Android](https://play.google.com/store/apps/details?id=io.danielcruz.sines&hl=en_US&gl=US)[ | iOS](https://apps.apple.com/us/app/looper-minimal-infinite-runner/id1265535862)
 
-<!--
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
+
 
 
 
