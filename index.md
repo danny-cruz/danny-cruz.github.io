@@ -13,12 +13,11 @@
 
 
 
-### Category Name 2
+### Prototypes
 
-- [Project 1 Title](/hopper-demo/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Hopper](/hopper-demo/)
+- [Hopper (Mobile touchscreen version)](/hopper-demo-mobile/)
+- [Speed Golf](/speed-golf/)
+- [Color Breaker](/color-breaker/)
 
 ---
