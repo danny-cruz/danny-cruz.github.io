@@ -1,5 +1,6 @@
-## Projects
-
+---
+title: Portfolio
+subtitle: Projects
 ---
 
 ### Looper
