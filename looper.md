@@ -2,7 +2,7 @@
 layout: page
 title: Looper
 ---
-<img src="images/looper_Promo_1024x500.png?raw=true"/>
+<img src="looper_Promo_1024x500.png?raw=true"/>
 
 Looper is a mobile game that was entirely developed by me. It is a simple infinite runner with over 5 million downloads.
 
