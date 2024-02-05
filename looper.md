@@ -9,7 +9,7 @@ Looper is a mobile game that was entirely developed by me. It is a simple infini
 
 ### Gameplay and UI
 
-<video src="https://github.com/danny-cruz/danny-cruz.github.io/assets/7546513/c2f5c7c2-ce41-4a67-888c-f89962aaac56" controls="controls">
+<video src="https://github.com/danny-cruz/danny-cruz.github.io/assets/7546513/c2f5c7c2-ce41-4a67-888c-f89962aaac56" controls="controls"style="max-width: 500px;">
 </video>
 
 
