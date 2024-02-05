@@ -13,7 +13,7 @@
 
 ### Prototypes
 
-- [<span style="font-family:Helvetica; font-size:4em;">Hopper</span>](/hopper-demo/)
+- [<span style="font-family:Open Sans;">Hopper</span>](/hopper-demo/)
 - [Hopper (Mobile touchscreen version)](/hopper-demo-mobile/)
 - [Speed Golf](/speed-golf/)
 - [Color Breaker](/color-breaker/)
