@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Looper
 ---
+<img src="images/looper_Promo_1024x500.png?raw=true"/>
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Looper is a mobile game that was entirely developed by me. It is a simple infinite runner with over 5 million downloads.
 
 ### My story
 
