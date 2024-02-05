@@ -3,5 +3,5 @@ logo: # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Game Designer
 
-theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll@6.0.1
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
