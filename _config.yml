@@ -21,7 +21,7 @@ author: Danny Cruz
 
 navbar-links:
   Projects:
-    - Looper:
+    - Looper: https://danny-cruz.github.io/looper
     - Hopper: /hopper-demo/
     - Speed Golf: /speed-golf/
     - Color Breaker: /color-breaker/
